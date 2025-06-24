@@ -1,4 +1,3 @@
-
 # Conjuring Ghibli Movie
 
 ![GitHub License](https://img.shields.io/github/license/adionmission/Conjuring-Ghibli-Movie)
@@ -84,3 +83,16 @@ Woman is looking towards the cupboard. The cupboard is opening slowly and hand i
 Woman is scared. Candle flame is buring. Ghostly looking hands come out form the dark and clapped three times.
 
 In the above video, it can be seen that hand clap is not coming with other movements in the video.
+
+
+## Voice
+
+Added voice in some video clips using CapCut's AI model.
+
+![Single Face](Voices/singleface.gif)
+
+In scenrios where there are multiple faces, same lipsyncing occurs.
+
+![Multiple Face](Voices/multiface.gif)
+
+To listen, download the video and check.
