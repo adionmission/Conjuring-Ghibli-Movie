@@ -75,7 +75,7 @@ Also, when specifying multiple actions in the prompt, I was not getting the desi
 
 To show what I mean, consider some examples:
 
-![Hands from Cupboard](Problems/handfromcupboard.gif)
+![Hands from Cupboard](Problems/handsfromcupboard.gif)
 
 Woman is looking towards the cupboard. The cupboard is opening slowly and hand is coming out of it. Hands clapped three times.
 
