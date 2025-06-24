@@ -5,7 +5,7 @@
 ![GitHub Release Date](https://img.shields.io/github/release-date/adionmission/Conjuring-Ghibli-Movie)
 ![GitHub repo size](https://img.shields.io/github/repo-size/adionmission/Conjuring-Ghibli-Movie)
 
-[![Result](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Result](https://img.youtube.com/vi/EZ3oWIHAo5w/0.jpg)](https://www.youtube.com/watch?v=EZ3oWIHAo5w)
 
 Trailer of "The Conjuring" 2013 movie in a Studio Ghibli style.
 
