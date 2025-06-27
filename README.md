@@ -6,7 +6,7 @@
 
 [![Result](https://img.youtube.com/vi/EZ3oWIHAo5w/0.jpg)](https://www.youtube.com/watch?v=EZ3oWIHAo5w)
 
-Trailer of "The Conjuring" 2013 movie in a Studio Ghibli style.
+As a part of Prompt Engineering project, worked on the trailer of "The Conjuring" 2013 movie in a Studio Ghibli style.
 
 This project is inspired by [PJ Ace](https://x.com/PJaccetturo/highlights) who created Lord of the Rings trailer in Studio Ghibli style.
 
